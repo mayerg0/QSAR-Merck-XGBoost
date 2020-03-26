@@ -14,6 +14,6 @@ https://github.com/RuwanT/merck/blob/master/main.py
 https://www.kaggle.com/c/MerckActivity/data
 
 - Project Presentation:
-https://docs.google.com/presentation/d/e/2PACX-1vRN4hVoXzNEVSYAOq9eYWDQxudlwCAL2GNW9Mx1D7ScT6pOXDTEmxUOeV_jnOo__zi9hKX_yoLPq0R6/pub?start=false&loop=false&delayms=3000
+[Molecular Activity Prediction with XGBoost](https://docs.google.com/presentation/d/e/2PACX-1vRN4hVoXzNEVSYAOq9eYWDQxudlwCAL2GNW9Mx1D7ScT6pOXDTEmxUOeV_jnOo__zi9hKX_yoLPq0R6/pub?start=false&loop=false&delayms=3000)
 
 ## Installation

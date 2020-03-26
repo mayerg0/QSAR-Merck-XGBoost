@@ -8,7 +8,7 @@ Repo comparing the performance of DNN to XGBoost for QSAR applications
 Ma, J., Sheridan, R.P., Liaw, A., Dahl, G.E. and Svetnik, V., 2015. Deep neural nets as a method for quantitative structure–activity relationships. Journal of chemical information and modeling, 55(2), pp.263-274.
 
 - DNN inspired from:
-[DNN repo MIT project](https://github.com/RuwanT/merck/blob/master/main.py)
+[DNN repo MIT project](https://github.com/RuwanT/merck/blob/master/custom_networks.py)
 
 - Data:
 [Merck Dataset](https://www.kaggle.com/c/MerckActivity/data "Merck Dataset")

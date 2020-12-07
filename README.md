@@ -1,7 +1,7 @@
 # QSAR-Merck-XGBoost
 
 ## Description
-Repo comparing the performance of DNN to XGBoost for QSAR applications using Merck 2013 dataset
+Repo comparing the performance of DNN to XGBoost for QSAR applications using Merck 2013 dataset. See project presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vRN4hVoXzNEVSYAOq9eYWDQxudlwCAL2GNW9Mx1D7ScT6pOXDTEmxUOeV_jnOo__zi9hKX_yoLPq0R6/pub?start=false&loop=false&delayms=3000)
 
 ## Installation
 - Download data from [Merck Dataset](https://www.kaggle.com/c/MerckActivity/data "Merck Dataset") into Data folder

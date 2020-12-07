@@ -4,7 +4,6 @@
 Repo comparing the performance of DNN to XGBoost for QSAR applications using Merck 2013 dataset
 
 ## Installation
-- Install requirements
 - Download data from [Merck Dataset](https://www.kaggle.com/c/MerckActivity/data "Merck Dataset") into Data folder
 - run "python main.py arg_dataset arg_model". arg_dataset can be "all" or an int between 1 and 15, arg_model can be "dnn", "rf" or "xgb"
 
